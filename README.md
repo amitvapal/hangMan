@@ -8,4 +8,4 @@ Wing Editor 7.1.0.2
 
 ## Running the tests
 1. Once the program is executed, user will be pressing letters if he clicks 10 words that are wrong than he losses.
-![](https://github.com/amitvapal/maze/blob/master/maze.png)
+![](https://github.com/amitvapal/hangMan/blob/master/stickman_pic.png)
