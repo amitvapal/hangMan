@@ -1,4 +1,4 @@
-# hangMan
+# Hang Man
 User plays a word guessing game. There is a hidden word and the user needs to type letters and eventually click all the right keys to win the game. 
 ### Prerequisites
 Following Software tools used to build game “hangMan”
